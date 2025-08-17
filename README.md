@@ -26,7 +26,7 @@ Colleagues often describe me as someone who values:
 I believe in being intentional with my work and delivering insights that actually help decision-makers take action.  
 
 ## Beyond Data 🌟  
-Outside of analytics, I enjoy:  
+Outside of analytics, I enjoy;  
 - Dancing & Music  
 - Cooking (experimenting with recipes and creating new flavors)  
 - Strategy games & Research  
