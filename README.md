@@ -13,7 +13,7 @@ I love showing the story behind the numbers.
 My projects so far include dashboards for:  
 - Restaurant operations 🍴  
 -  Sales performance  💰
-- Financial expenses  📉
+- Financial expenses  [Finance Portfolio (Detail Insight)](https://github.com/progressuchenwa/Finance-expenses-dashboard-by-progress)
   
 All focused on helping businesses see what’s working and what isn’t.  
 
