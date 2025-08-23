@@ -37,6 +37,7 @@ Most of all, I love *learning new skills and growing* that’s what took me from
 This portfolio is where I share my journey in data, combining my *business background, curiosity, and growing technical skills*.  
 
 👉 Explore my projects, and feel free to *connect or collaborate* if something here inspires you.
+
 👉 **Let’s Connect!**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ukamaka/)
