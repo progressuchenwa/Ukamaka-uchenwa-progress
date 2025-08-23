@@ -12,7 +12,8 @@ Whether it’s:
 I love showing the story behind the numbers.  
 My projects so far include dashboards for:  
 - Restaurant operations 🍴  
--  Sales performance  💰
+-  Sales performance  [WorkNest Supply Performance Portfolio](https://github.com/progressuchenwa/WorkNest-Supply-Performance-Dashboard-by--progress)
+
 - Financial expenses  [Finance Portfolio (Detail Insight)](https://github.com/progressuchenwa/Finance-expenses-dashboard-by-progress)
   
 All focused on helping businesses see what’s working and what isn’t.  
